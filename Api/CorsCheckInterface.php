@@ -1,7 +1,4 @@
 <?php
-/**
- * @copyright  Copyright 2017 SplashLab
- */
 
 namespace Creatuity\CorsRequests\Api;
 

@@ -1,7 +1,4 @@
 <?php
-/**
- * @copyright  Copyright 2017 SplashLab
- */
 
 declare(strict_types=1);
 
